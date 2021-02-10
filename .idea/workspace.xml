@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e2f37ab-3312-424e-a57c-b8d456f6d63c" name="Default Changelist" comment="" />
+    <list default="true" id="8e2f37ab-3312-424e-a57c-b8d456f6d63c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/000bbf3a963e23cbac8e6fcee74e2959085dd715c278e260b1f98588b6919df1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/0d6d6ffa37cc64bed32e25f4ee4baf9c35c5b6a22d229268cf30cd577191bef4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/2fb0c75fc835f2e14c8328db45e0e0d334f4ad31aa5ca88e72496efaa479e023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/4848f4f9f4e94af23780a76f31d007038bdfd9c724f05c75a62a439f65096e4b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/616221abbcd5d499c35ed421eb12f9f11abb84f93b866d2e25518624e3314a4b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/64a2793b2dfc09ebbcc4d59e05352912d0109c89dc48a6de06ada8d7885d67a6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/70fe67edb04b447dbe29b09b45dc541f43702d0e19dbc8b9c8978cc3a19df8f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/71d539a891509641605283002d55eba54e50133c8c6411398e3b100a2a8f7dae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/730461effc2e310f15a926c100e8b2c55742508575f801daf150a2e12cee0da2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/a21f7af7593dbfcc0880517083e018c4d840cbed2f2cd6d2f542781a8dd612f6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/af74d915e3b6b60a1896207a97fbd43ff8bb4fb5b944cc21c2a1bc8f9239a7d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/ee234d213c752f83ef49b99f80035fb78f334652ef3ebe58ac12850fb43a635c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource10311110857579393388.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource12106798567971118114.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource14894924419590223003.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource4720818820460563666.html.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/academy/tasks/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/academy/tasks/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/academy/userinterface/ChoucairLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/academy/userinterface/ChoucairLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/academy/userinterface/SearchCoursePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/academy/userinterface/SearchCoursePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/academy/stepdefinitions/ChoucairAcademyStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/academy/stepdefinitions/ChoucairAcademyStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Academy#20Choucair.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Academy#20Choucair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.academy.runners.RunnerTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.academy.runners.RunnerTags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.academy.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.academy.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Academy#20Choucair.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Academy#20Choucair.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.academy.runners.RunnerTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.academy.runners.RunnerTags.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/tasks/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/tasks/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/ChoucairLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/ChoucairLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/SearchCoursePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/SearchCoursePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/academy/stepdefinitions/ChoucairAcademyStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/academy/stepdefinitions/ChoucairAcademyStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-70922b7ab64f145547c3f13f503c51771cf7715eef5dac16a4916f85d32f9f6d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +75,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oGooawVBdRVbX8izj0MO7CGEIi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="co.com.choucair.certification.academy.questions" />
@@ -79,5 +143,21 @@
       <updated>1612922463647</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

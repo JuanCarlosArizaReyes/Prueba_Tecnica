@@ -11,7 +11,6 @@ public class Login implements Task {
 
     private String strUser;
     private String strPassword;
-
     public Login(String strUser, String strPassword) {
         this.strUser = strUser;
         this.strPassword = strPassword;
@@ -25,8 +24,8 @@ public class Login implements Task {
     @Override
     public <T extends Actor> void performAs(T actor){
         actor.attemptsTo(Click.on(ChoucairLoginPage.LOGIN_BUTTON),
-                Enter.theValue("1072750731").into(ChoucairLoginPage.INPUT_USER),
-                Enter.theValue("Choucair2021*").into(ChoucairLoginPage.INPUT_PASSWORD),
+                Enter.theValue(strUser).into(ChoucairLoginPage.INPUT_USER),
+                Enter.theValue(strPassword).into(ChoucairLoginPage.INPUT_PASSWORD),
                 Click.on(ChoucairLoginPage.ENTER_BUTTON)
                 );
     }
